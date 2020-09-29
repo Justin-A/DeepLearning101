@@ -1,0 +1,27 @@
+# Python Virtualenv - Windows
+- pip install virtualenv                          
+- virtualenv [name of virtualenv]                 
+- virtualenv [name of virtualenv] --python=3.6    
+- call [name of virtualenv]/scripts/activate      
+- deactivate
+
+# Python Virtualenv - Linux
+- pip install virtualenv                         
+- virtualenv [name of virtualenv]                
+- virtualenv [name of virtualenv] --python=3.6   
+- source [name of virtualenv]/bin/activate       
+- deactivate                                     
+
+# Anaconda Virtualenv - Windows
+- conda create [name of virtualenv]                
+- conda create [name of virtualenv] pandas torch   
+- conda create [name of virtualenv] python=3.6     
+- activate [name of virtualenv]                    
+- deactivate                                       
+
+# Anaconda Virtualenv - Linux
+- conda create [name of virtualenv]                
+- conda create [name of virtualenv] pandas torch   
+- conda create [name of virtualenv] python=3.6     
+- source activate [name of virtualenv]             
+- source deactivate                                
