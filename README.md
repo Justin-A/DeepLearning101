@@ -1,2 +1,2 @@
-# DeepLearning101
-- code about DeepLearning101 Book
+# Python, Deep Learning, PyTorch
+- To be updated
