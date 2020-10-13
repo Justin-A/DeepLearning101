@@ -2,15 +2,15 @@
 - Python, Deep Learning, PyTorch
 
 # Authors
-이경택 
+### 이경택 
 - e-mail : lgt5512@naver.com
 - github : github.com/LeeGyeongTak
 - blog : bluediary8.tistory.com
 
-방성수
+### 방성수
 - e-mail : twilight057@gmail.com
 
-안상준
+### 안상준
 - e-mail : justin_a@yonsei.ac.kr
 - github : github.com/Justin-A
 
