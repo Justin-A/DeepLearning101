@@ -4,15 +4,15 @@
 # Authors
 ### 이경택 
 - e-mail : lgt5512@naver.com
-- github : github.com/LeeGyeongTak
-- blog : bluediary8.tistory.com
+- github : https://github.com/LeeGyeongTak
+- blog : https://bluediary8.tistory.com
 
 ### 방성수
 - e-mail : twilight057@gmail.com
 
 ### 안상준
-- e-mail : justin_a@yonsei.ac.kr
-- github : github.com/Justin-A
+- e-mail : https://justin_a@yonsei.ac.kr
+- github : https://github.com/Justin-A
 
 ![Image01](https://user-images.githubusercontent.com/35527874/95832687-9a89f800-0d75-11eb-9866-d1067e594a78.jpg)
 ![Image02](https://user-images.githubusercontent.com/35527874/95832694-9e1d7f00-0d75-11eb-9705-a066dd48687c.jpg)
