@@ -11,7 +11,7 @@
 - e-mail : twilight057@gmail.com
 
 ### 안상준
-- e-mail : https://justin_a@yonsei.ac.kr
+- e-mail : justin_a@yonsei.ac.kr
 - github : https://github.com/Justin-A
 
 ![Image01](https://user-images.githubusercontent.com/35527874/95832687-9a89f800-0d75-11eb-9866-d1067e594a78.jpg)
