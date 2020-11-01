@@ -9,6 +9,7 @@
 
 ### 방성수
 - e-mail : twilight057@gmail.com
+- github : https://github.com/8a496b
 
 ### 안상준
 - e-mail : justin_a@yonsei.ac.kr
